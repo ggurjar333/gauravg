@@ -18,24 +18,24 @@ include:
   - _redirects
 
 # Site settings
-title: Matt Grey
-long-title: Matt Grey Design
-email: mattgreydesign@gmail.com
-description: "The selected portfolio of London based digital product designer Matt Grey"
+title: Gaurav Gurjar
+long-title: Gaurav Gurjar Data Consultant
+email: ggurjar333@gmail.com
+description: "The selected portfolio of Ahmedabad based data consultant Gaurav Gurjar"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://himatt.com" # the base hostname & protocol for your site
-timezone: Europe/London
-year: 2021
-start-year: 2010
+url: "https://linkedin.com/in/ggurjarsocl" # the base hostname & protocol for your site
+timezone: Asia/Kolkata
+year: 2023
+start-year: 2016
 sitemap: true
 
 # Social networks
 social-username:
-  twitter: "@mattgreydesign"
-  linkedin: "himatt"
-  github: "mattgreydesign"
-  medium: "@mattgreydesign"
-  pinterest: "mattgreydesign"
+  twitter: "@iamggurjar"
+  linkedin: "ggurjarsocl"
+  github: "ggurjar333"
+  medium: "@gauravgurjar"
+  pinterest: "ggurjar333"
   instagram: "mattgreydesign"
   flickr: "mattgreydesign"
   spotify: "mattgreydesign"
