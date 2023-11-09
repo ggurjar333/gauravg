@@ -31,15 +31,17 @@ content_layout:
     images:
       - caption:
         description: 'Homepage'
-        url: '/projects/ski-solutions/ski-solutions-homepage.jpg'
+        # url: '/projects/ski-solutions/ski-solutions-homepage.jpg'
+        url: '/projects/cannaspyglass/csg-home.jpg'
         width:
         height:
 
   - section_layout: 1col
     images:
       - caption:
-        description: 'Property listing'
-        url: '/projects/ski-solutions/ski-solutions-listing.jpg'
+        description: 'Operators Listing'
+        # url: '/projects/ski-solutions/ski-solutions-listing.jpg'
+        url: '/projects/cannaspyglass/operators-listing.jpg'
         width:
         height:
 
