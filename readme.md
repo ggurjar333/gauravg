@@ -1,4 +1,4 @@
-# himatt.com
+# [Gaurav Gurjar](https://www.linkedin.com/in/ggurjarsocl/)
 
 Personal portfolio made with [Jekyll](https://jekyllrb.com/), deployed via [Netlify](https://netlify.com/)
 
