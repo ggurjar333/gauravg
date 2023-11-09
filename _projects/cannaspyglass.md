@@ -2,14 +2,14 @@
 date: 2021-6-1
 published: true
 title: "CANNASPYGLASS"
-description: "Responsive experience redesign for a tailor-made ski tour operator"
+description: "Data driven experience provider for a tailor-made cannabis business operator"
 categories: website, SaaS, mobile
 disciplines: Data Engineering, API Development, Python, SQL
 media: Website
 ownership:
 client: CANNASPYGLASS
 time_period: 2021
-thumbnail: "/projects/ski-solutions/plist-ski-solutions.jpg"
+thumbnail: "/projects/cannaspyglass/plist-csg.jpg"
 
 website:
   button_text: Visit the site
@@ -31,7 +31,6 @@ content_layout:
     images:
       - caption:
         description: 'Homepage'
-        # url: '/projects/ski-solutions/ski-solutions-homepage.jpg'
         url: '/projects/cannaspyglass/csg-home.jpg'
         width:
         height:
@@ -40,16 +39,7 @@ content_layout:
     images:
       - caption:
         description: 'Operators Listing'
-        # url: '/projects/ski-solutions/ski-solutions-listing.jpg'
         url: '/projects/cannaspyglass/operators-listing.jpg'
-        width:
-        height:
-
-  - section_layout: 1col
-    images:
-      - caption:
-        description: 'Property'
-        url: '/projects/ski-solutions/ski-solutions-property.jpg'
         width:
         height:
 ---
