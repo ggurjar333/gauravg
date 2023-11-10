@@ -8,6 +8,6 @@ sitemap: false
 
 <div class="generic-page-wrapper">
   <div class="generic-page">
-    <iframe class="where-ive-been-map" src="https://www.google.com/maps/d/embed?mid=12KAOn_MJ4U8yiFeILBsA6C2_SFM&hl=en" width="640" height="480"></iframe>
+    <iframe class="where-ive-been-map" src="https://www.google.com/maps/d/u/0/embed?mid=1Ch3oFpcN9HgDgFmKoFxjttpciF0HEk8&ehbc=2E312F" width="640" height="480"></iframe>
   </div>
 </div>
