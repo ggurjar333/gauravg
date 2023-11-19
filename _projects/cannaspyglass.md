@@ -1,7 +1,7 @@
 ---
 date: 2021-6-1
 published: true
-title: "CANNASPYGLASS"
+title: "SaaS - CANNASPYGLASS"
 description: "creating 350+ AWS-powered pipelines, forming vital veins and APIs, vitalizing the system and meeting diverse data needs."
 categories: website, SaaS, mobile
 disciplines: Data Engineering, API Development, Python, SQL

@@ -2,7 +2,7 @@
 date: 2017-01-1
 published: true
 sitemap: false
-title: "Casepoint LLC"
+title: "SaaS - Casepoint LLC"
 description: "In the legal dance with PDFs and mailboxes, I wielded OCR magic and threaded emails, transforming data chaos into a coherent narrative."
 categories: app, ux, mobile
 disciplines: Data Management, Project Management, Team Building, Customer Success, SaaS
@@ -10,7 +10,7 @@ media: Mobile App
 ownership:
 client: Casepoint LLC
 time_period: 2018-2019
-thumbnail: "/projects/butterfly/plist-butterfly.jpg"
+thumbnail: "/projects/casepoint/plist-butterfly.jpg"
 
 website:
   button_text: Visit the site
@@ -35,7 +35,7 @@ content_layout:
     images:
       - caption: Main functional tabs
         description: 'Navigation'
-        url: '/projects/butterfly/butterfly-main-navigation.jpg'
+        url: '/projects/casepoint/butterfly-main-navigation.jpg'
         width:
         height:
 
@@ -43,7 +43,7 @@ content_layout:
     images:
       - caption: Public profile media
         description: 'Profile screens'
-        url: '/projects/butterfly/butterfly-profile.jpg'
+        url: '/projects/casepoint/butterfly-profile.jpg'
         width:
         height:
 
@@ -51,7 +51,7 @@ content_layout:
     images:
       - caption: Onboarding
         description: 'Onboarding'
-        url: '/projects/butterfly/butterfly-onboarding.jpg'
+        url: '/projects/casepoint/butterfly-onboarding.jpg'
         width:
         height:
 
@@ -59,7 +59,7 @@ content_layout:
     images:
       - caption: Chat
         description: 'Chat'
-        url: '/projects/butterfly/butterfly-chat.jpg'
+        url: '/projects/casepoint/butterfly-chat.jpg'
         width:
         height:
 ---

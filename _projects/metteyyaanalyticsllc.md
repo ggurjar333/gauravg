@@ -1,7 +1,7 @@
 ---
 date: 2016-02-20
 published: true
-title: "Metteyya Analytics LLC"
+title: "Services - Metteyya Analytics LLC"
 description: "Delivered skills on 17+ Data Engineering/Data Science projects"
 categories: icons
 disciplines: Data Engineering, Data Scientist, Project Management, Team Management
@@ -9,7 +9,7 @@ media:
 ownership: Personal
 client:
 time_period: 2019 – present
-thumbnail: "/projects/unified/plist-unified.png"
+thumbnail: "/projects/metteyyaanalyticsllc/plist-unified.png"
 
 intro: |
   In the digital symphony, I wore the hat of a maestro in CRM development for sales funnels, composed custom LMS solutions, choreographed data pipelines for product pricing prophecies, and orchestrated Docker/Kubernetes parties on Nvidia's hardware dance floor. 
@@ -25,19 +25,19 @@ content_layout:
     images:
       - caption:
         description: Globe icon
-        url: '/projects/unified/unified-globe-icon-guides.png'
+        url: '/projects/metteyyaanalyticsllc/unified-globe-icon-guides.png'
         width:
         height:
 
       - caption:
         description: Watch icon
-        url: '/projects/unified/unified-watch-icon-guides.png'
+        url: '/projects/metteyyaanalyticsllc/unified-watch-icon-guides.png'
         width:
         height:
 
       - caption:
         description: Paint bucket icon
-        url: '/projects/unified/unified-fill-icon-guides.png'
+        url: '/projects/metteyyaanalyticsllc/unified-fill-icon-guides.png'
         width:
         height:
 
@@ -48,7 +48,7 @@ content_layout:
           could be used in a wide range of circumstances — like for different
           cultures, at small sizes and with and without labels.
         description: Icon set specimen
-        url: '/projects/unified/unified-icon-specimen.png'
+        url: '/projects/metteyyaanalyticsllc/unified-icon-specimen.png'
         width:
         height:
 

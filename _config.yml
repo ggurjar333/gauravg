@@ -75,6 +75,8 @@ navigation:
     url: /about
   - title: Contact
     url: /contact
+  - title: Blog
+    url: /blogs
 
 permalink: /:title/
 
@@ -86,6 +88,9 @@ collections:
   fonts:
     output: true
     permalink: /fonts/:path/
+  blogs:
+    output: true
+    permalink: /blogs/:path/
 
 defaults:
   - scope:
@@ -98,3 +103,8 @@ defaults:
       type: "fonts"
     values:
       layout: "font"
+  - scope:
+      path: ""
+      type: "blogs"
+    values:
+      layout: "blog"

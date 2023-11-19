@@ -1,15 +1,15 @@
 ---
 date: 2016-01-1
 published: true
-title: "Style kit"
-description: "Styleguide for a leading international luxury hotel and resort chain"
-categories: ux, ui, styleguide
-disciplines: Styleguide, UX, UI, HTML/CSS
+title: "Open Source Projects"
+description: "Code Contribution to open source projects"
+categories: opensource, python, data engineering
+disciplines: Open Source, Python, Data Engineering
 media: Live Styleguide
 ownership: Alliants
 client: Confidential
 time_period: 2016
-thumbnail: "/projects/style-kit/plist-style-kit.png"
+thumbnail: "/projects/opensource/plist-style-kit.png"
 
 intro: |
   Style kit is a digital styleguide for a luxury international hotel and resort
@@ -32,13 +32,13 @@ content_layout:
     images:
       - caption:
         description: 'Text input example'
-        url: '/projects/style-kit/style-kit-section-input.jpg'
+        url: '/projects/opensource/style-kit-section-input.jpg'
         width:
         height:
 
       - caption:
         description: 'Button input example'
-        url: '/projects/style-kit/style-kit-section-button.jpg'
+        url: '/projects/opensource/style-kit-section-button.jpg'
         width:
         height:
 ---
