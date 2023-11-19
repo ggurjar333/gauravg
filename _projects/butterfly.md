@@ -2,30 +2,33 @@
 date: 2017-01-1
 published: true
 sitemap: false
-title: "Butterfly"
-description: "Experience, architecture and design for a social networking app made for creatives"
+title: "Casepoint LLC"
+description: "In the legal dance with PDFs and mailboxes, I wielded OCR magic and threaded emails, transforming data chaos into a coherent narrative."
 categories: app, ux, mobile
-disciplines: UX, App design, Information Architecture
+disciplines: Data Management, Project Management, Team Building, Customer Success, SaaS
 media: Mobile App
 ownership:
-client: Butterfly
-time_period: 2017
+client: Casepoint LLC
+time_period: 2018-2019
 thumbnail: "/projects/butterfly/plist-butterfly.jpg"
 
 website:
   button_text: Visit the site
-  url: https://www.butterfly.life/
+  url: https://www.casepoint.com/
 
 intro: |
-  Butterfly is a social networking app which aims at connecting skilled
-  creatives across any discipline.
+  During my influential 12-month tenure at Casepoint, I not only contributed to the enhancement of the company's project management methodologies but also demonstrated leadership by establishing and leading a team of 8 Assistant Project Managers specifically focused on Client Success. This achievement underscores my ability to drive organizational growth, cultivate a collaborative work environment, and ensure the satisfaction of our valued clients.
 
-  One of the most important goals of Butterfly is to provide reassurance to
-  artists that they still have the rights any work they upload, and that their
-  privacy is respected.
+  - Led the development and implementation of a robust project methodology across the entire organization.
+  - Integrated structures, standards, processes, and documentation to streamline project execution.
+  - Developed and maintained processes ensuring the relevance, accuracy, and completeness of project management documentation, reports, and plans.
+  - Facilitated effective project planning by working closely with project leads, ensuring the availability of processes, documentation, and templates for streamlined project launches.
+  - Successfully built and led a team of 8 Assistant Project Managers dedicated to Client Success within a short timeframe, showcasing leadership acumen and the ability to identify and nurture talent.
+  - Assisted various departments in establishing efficient processes for service delivery and administrative tasks, contributing to overall organizational effectiveness.
+  - Provided guidance to project teams on the best use of project management disciplines within a high-paced, technology-driven environment.
+  - Actively participated in team meetings, fostering open communication and collaboration within the organization.
+  - Contributed to the flow of communication within the team, ensuring alignment with organizational goals and objectives.
 
-  I created the architecture, data requirements and UX flow of the application,
-  first making a low fidelity prototype to test with users.
 
 content_layout:
   - section_layout: 1col
