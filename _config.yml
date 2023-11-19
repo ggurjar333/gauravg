@@ -69,8 +69,8 @@ compress_html: # http://jch.penibelst.de/
 navigation:
   - title: Impact
     url: /
-  - title: Fonts
-    url: /fonts
+  # - title: Fonts
+  #   url: /fonts
   - title: About
     url: /about
   - title: Contact
