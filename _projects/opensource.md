@@ -4,28 +4,23 @@ published: true
 title: "Open Source Projects"
 description: "Code Contribution to open source projects"
 categories: opensource, python, data engineering
-disciplines: Open Source, Python, Data Engineering
+disciplines: Open Source, Python, Data Engineering, Bash scripting
 media: Live Styleguide
 ownership: Alliants
 client: Confidential
-time_period: 2016
+time_period: 2023
 thumbnail: "/projects/opensource/plist-style-kit.png"
 
 intro: |
-  Style kit is a digital styleguide for a luxury international hotel and resort
-  chain based in Toronto. The aim of the project was to provide re-usable styles
-  and components for developers across a multitude of projects, both internal
-  and outsourced.
+  PUDL: My very first open source contribution
+  
+  The [Public Utility Data Liberation Project](https://github.com/catalyst-cooperative/pudl) provides analysis-ready energy system data to climate advocates, researchers, policymakers, and journalists.
 
-  The need for a visual language guide became apparent when it came to
-  rebranding the whole digital presence, both internally and externally. The
-  inconsistency that arose from initiating new projects with no reference for
-  identity meant that a universal resource was in urgent need.
+  It takes the original spreadsheets, CSV files, and databases and turns them into a unified resource. This enables users to spend more time on novel analysis and less time on data preparation. 
 
-  I set out common taxonomies for elements and coded the frontend markup and
-  styles required, tuning and perfecting the micro-interactions in the process.
-  The project was a marked success, efficiently being used across the world by a
-  multitude of development teams across platforms.
+  I am contributing to Bash scripting right now.
+
+
 
 content_layout:
   - section_layout: 2col
