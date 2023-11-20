@@ -12,7 +12,7 @@ time_period: 2023
 thumbnail: "/projects/opensource/plist-style-kit.png"
 
 intro: |
-  PUDL: My very first open source contribution
+  My very first open source contribution.
   
   The [Public Utility Data Liberation Project](https://github.com/catalyst-cooperative/pudl) provides analysis-ready energy system data to climate advocates, researchers, policymakers, and journalists.
 
