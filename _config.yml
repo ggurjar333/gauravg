@@ -21,10 +21,10 @@ include:
 title: Gaurav Gurjar
 long-title: Gaurav Gurjar Data Consultant
 email: ggurjar333@gmail.com
-description: "The selected portfolio of Ahmedabad based data consultant Gaurav Gurjar"
+description: "The selected portfolio of Dubai based data consultant Gaurav Gurjar"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://linkedin.com/in/ggurjarsocl" # the base hostname & protocol for your site
-timezone: Asia/Kolkata
+timezone: Asia/Muscat
 year: 2023
 start-year: 2016
 sitemap: true
