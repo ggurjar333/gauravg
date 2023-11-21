@@ -17,7 +17,7 @@ website:
   url: https://www.casepoint.com/
 
 intro: |
-  During my influential 12-month tenure at Casepoint, I not only contributed to the enhancement of the company's project management methodologies but also demonstrated leadership by establishing and leading a team of 8 Assistant Project Managers specifically focused on Client Success. This achievement underscores my ability to drive organizational growth, cultivate a collaborative work environment, and ensure the satisfaction of our valued clients.
+  During my influential 12-month tenure at Casepoint, I not only contributed to the enhancement of the company's project management methodologies but also demonstrated leadership by establishing and leading a team of 8 Assistant Project Managers specifically focused on Client Success. This achievement underscores my ability to drive organizational growth, cultivate a collaborative work environment, and ensure the satisfaction of our valued clients. 
 
   - Led the development and implementation of a robust project methodology across the entire organization.
   - Integrated structures, standards, processes, and documentation to streamline project execution.
