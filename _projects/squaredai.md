@@ -22,19 +22,18 @@ intro: |
   I am contributing to Bash scripting right now.
 
 
-
 content_layout:
   - section_layout: 2col
     images:
       - caption:
         description: 'Text input example'
-        url: '/projects/opensource/style-kit-section-input.jpg'
+        url: '/projects/squaredai/style-kit-section-input.jpg'
         width:
         height:
 
       - caption:
         description: 'Button input example'
-        url: '/projects/opensource/style-kit-section-button.jpg'
+        url: '/projects/squaredai/style-kit-section-button.jpg'
         width:
         height:
 ---
