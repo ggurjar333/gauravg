@@ -12,15 +12,11 @@ time_period: 2023
 thumbnail: "/projects/squaredai/plist-style-kit.png"
 
 intro: |
-  API for R Package: iCARE
+  The company scratched one of their first project with the requirement of developing Java Spring Boot APIs for an R package called iCARE.
 
-  
-  The [Public Utility Data Liberation Project](https://github.com/catalyst-cooperative/pudl) provides analysis-ready energy system data to climate advocates, researchers, policymakers, and journalists.
+  A Tool for [Individualized Coherent Absolute Risk Estimation (iCARE)](https://bioconductor.org/packages/release/bioc/html/iCARE.html) 
 
-  It takes the original spreadsheets, CSV files, and databases and turns them into a unified resource. This enables users to spend more time on novel analysis and less time on data preparation. 
-
-  I am contributing to Bash scripting right now.
-
+  R package authored by: Paige Maas, Parichoy Pal Choudhury, Nilanjan Chatterjee and William Wheeler
 
 content_layout:
   - section_layout: 2col
