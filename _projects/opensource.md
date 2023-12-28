@@ -12,13 +12,11 @@ time_period: 2023
 thumbnail: "/projects/opensource/plist-style-kit.png"
 
 intro: |
-  My very first open source contribution.
   
-  The [Public Utility Data Liberation Project](https://github.com/catalyst-cooperative/pudl) provides analysis-ready energy system data to climate advocates, researchers, policymakers, and journalists.
+    My contributions to open source projects include:  
+    1. [Public Utility Data Liberation Project](https://github.com/catalyst-cooperative/pudl): This project provides analysis-ready energy system data to climate advocates, researchers, policymakers, and journalists. It takes the original spreadsheets, CSV files, and databases and turns them into a unified resource. This enables users to spend more time on novel analysis and less time on data preparation. I am contributing to Bash scripting.
 
-  It takes the original spreadsheets, CSV files, and databases and turns them into a unified resource. This enables users to spend more time on novel analysis and less time on data preparation. 
-
-  I am contributing to Bash scripting right now.
+    2. NFL-Stats: A Python-based project with the primary objective of gathering and analyzing statistics from National Football League (NFL) games. The project is written in Python 3.10.13 and employs numerous packages that aid in the collection and evaluation of statistical information. NFL-Stats integrates data from an external service - Sports Radar. The data integration from this platform enables the project to provide up-to-date and precise information required for insightful statistical analysis.
 
 
 
